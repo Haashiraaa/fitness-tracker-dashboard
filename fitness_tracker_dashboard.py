@@ -125,5 +125,9 @@ fig.text(
 )
 
 plt.tight_layout()
-fig.savefig("fitness_tracker_dashboard.png")
+""" 
+Removing '#' from plt.savefig() enables 
+saving to device storage
+"""
+# plt.savefig("fitness_tracker_dashboard.png")
 plt.show()  # Show final dashboard image
