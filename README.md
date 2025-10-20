@@ -1,6 +1,6 @@
 🏋🏽‍♂️ Fitness Tracker Dashboard
 
-📊 Overview
+Overview
 
 The Fitness Tracker Dashboard is a professional data visualization project built with Matplotlib.
 It visualizes daily fitness statistics such as calories burned, workout duration, and intensity, combining multiple chart types into one clean, presentation-ready dashboard.
@@ -10,7 +10,7 @@ This project explores how visual design, color balance, and chart composition ca
 
 ---
 
-🧠 Skills Demonstrated
+## Skills Demonstrated
 
 Advanced Matplotlib Styling: Customized colors, font sizes, gridlines, and figure spacing for a cohesive layout.
 
@@ -22,7 +22,7 @@ Visual Design Thinking: Focused on readability, visual balance, and professional
 
 ---
 
-💡 Key Features
+## Key Features
 
 Multi-plot dashboard simulating a real-world fitness tracker report.
 
@@ -34,7 +34,7 @@ Built to mirror presentation-level visuals that could be used in health apps or 
 
 ---
 
-🛠️ Tools Used
+## Tools Used
 
 Python 3.x
 
@@ -44,7 +44,7 @@ Matplotlib
 
 ---
 
-🚀 How to Run
+## How to Run
 
 1. Clone the repository:
 
@@ -63,7 +63,7 @@ python fitness_dashboard.py
 
 ---
 
-📱 Display Note
+## Display Note
 
 For the best viewing experience, it’s recommended to run this visualization in landscape mode or on a device with a wider screen.
 
@@ -81,7 +81,7 @@ When using Termux, saved plots automatically open in landscape view by default, 
 
 ---
 
-🏆 Author’s Note
+## Author’s Note
 
 This project was built as a capstone challenge after completing Chapter 15 – Data Visualization from Python Crash Course, 3rd Edition.
 
